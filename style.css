@@ -1,0 +1,158 @@
+/* Keep full-page height and remove default margin/padding */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", sans-serif;
+  background-color: #F7DAE7;
+  color: #333;
+  text-align: center;
+}
+
+/* NEW: Flex layout container */
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+  text-align: center;
+  padding: 100px 20px;
+  box-sizing: border-box;
+}
+
+/* Keep your cute heading styling */
+h1 {
+  font-size: 2.2rem;
+  margin-bottom: 20px;
+  color: #b46e9c;
+}
+
+button {
+  display: inline-block;
+  font-size: 1rem;
+  padding: 15px 25px;
+  background-color: #F7DAE7;
+  border: none;
+  border-radius: 8px;
+  cursor: url('https://cdn.custom-cursor.com/db/2893/32/pink-star-cursor.png'), auto;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+  position: relative;
+  overflow: hidden;
+  width: auto;
+  max-width: fit-content;
+  display: inline-block;
+  margin: 20px auto;
+}
+
+button:hover {
+  background-color: #f4a6c2;
+}
+
+.social-links {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.social-links a {
+  background-color: #fff;
+  color: #D45C7C;
+  padding: 10px 20px;
+  margin: 5px;
+  text-decoration: none;
+  border-radius: 20px;
+  font-weight: bold;
+  display: inline-block;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease, background-color 0.3s;
+}
+
+.social-links a:hover {
+  background-color: #ffe1e7;
+  transform: scale(1.05);
+}
+
+#message {
+  display: inline-block;
+  padding: 20px 30px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #5c4b51;
+  min-height: 60px;
+  max-width: 80%;
+  margin: 0 auto 30px auto;
+  position: relative;
+  text-align: center;
+  border-radius: 30px;
+  background: linear-gradient(145deg, #fff0f5, #ffe6f0);
+  box-shadow: 0 0 20px rgba(255, 192, 203, 0.5),
+              0 0 30px rgba(255, 182, 193, 0.3),
+              0 0 40px rgba(255, 105, 180, 0.2);
+  animation: shimmer 3s infinite ease-in-out;
+}
+
+#message::after {
+  content: "";
+  position: absolute;
+  bottom: -20px;
+  left: 50%;
+  transform: translateX(-50%);
+  border-width: 10px;
+  border-style: solid;
+  border-color: #fff transparent transparent transparent;
+}
+
+@keyframes shimmer {
+  0% {
+    box-shadow: 0 0 10px rgba(255, 192, 203, 0.5),
+                0 0 20px rgba(255, 182, 193, 0.3),
+                0 0 30px rgba(255, 105, 180, 0.2);
+  }
+  50% {
+    box-shadow: 0 0 25px rgba(255, 182, 193, 0.6),
+                0 0 40px rgba(255, 105, 180, 0.4),
+                0 0 60px rgba(255, 192, 203, 0.6);
+  }
+  100% {
+    box-shadow: 0 0 10px rgba(255, 192, 203, 0.5),
+                0 0 20px rgba(255, 182, 193, 0.3),
+                0 0 30px rgba(255, 105, 180, 0.2);
+  }
+}
+
+.twinkle-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1; /* behind all content */
+  overflow: hidden;
+}
+
+.twinkle-background::before,
+.twinkle-background::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 200%;
+  height: 200%;
+  background: 
+    radial-gradient(#ffffff 1px, transparent 1px),
+    radial-gradient(#ffe6f0 1px, transparent 1px),
+    radial-gradient(#ffd6fa 1px, transparent 1px);
+  background-size: 40px 40px;
+  background-position: 0 0, 20px 20px, 10px 10px;
+  opacity: 0.6;
+  animation: twinkle 10s linear infinite;
+}
+
+@keyframes twinkle {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(-50px, -50px);
+  }
+}
