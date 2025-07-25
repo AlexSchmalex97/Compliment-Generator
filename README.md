@@ -32,7 +32,7 @@ A simple and sparkly interactive web app that gives you a random compliment when
 
 ## 📸 Preview
 
-![Screenshot](Compliment Generator SS.png)
+![Screenshot of Compliment Generator](Compliment%20Generator%20SS.png)
 
 ## 📌 How It Works
 
