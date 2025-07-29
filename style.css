@@ -29,27 +29,25 @@ h1 {
 
 button {
   display: inline-block;
-  button {
-  font-size: 1.1rem;          /* was 1rem */
-  padding: 18px 30px;         /* slightly more padding */
-  ...
-}
+  font-size: 1.1rem;          /* slightly larger text */
+  padding: 18px 30px;         /* chunkier button */
   background-color: #F7DAE7;
   border: none;
   border-radius: 8px;
   cursor: url('https://cdn.custom-cursor.com/db/2893/32/pink-star-cursor.png'), auto;
   box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
-  transition: background-color 0.3s ease;
+  transition: background-color 0.3s ease, transform 0.2s ease;
   position: relative;
   overflow: hidden;
   width: auto;
   max-width: fit-content;
   margin: 0 auto;
-  top: **-140px**; /* ⬅️ bump this up significantly */
+  top: -140px;                /* moved closer to compliment bubble */
 }
 
 button:hover {
   background-color: #f4a6c2;
+  transform: scale(1.05);     /* gentle pop on hover */
 }
 
 .social-links {
