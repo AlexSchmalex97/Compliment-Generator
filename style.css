@@ -22,9 +22,17 @@ html, body {
 
 /* Keep your cute heading styling */
 h1 {
-  font-size: 2.2rem;
-  margin-bottom: 20px;
+  font-size: 3.2rem;              /* was 2.2rem — now significantly bigger */
+  margin-bottom: 40px;           /* gives more breathing room below */
   color: #b46e9c;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-shadow: 1px 1px 2px rgba(255, 182, 193, 0.4); /* subtle glow */
+  line-height: 1.3;              /* makes it taller when wrapping */
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  word-wrap: break-word;
 }
 
 button {
