@@ -28,9 +28,8 @@ h1 {
 }
 
 button {
-  display: inline-block;
-  font-size: 1.1rem;          /* slightly larger text */
-  padding: 18px 30px;         /* chunkier button */
+  font-size: 1.1rem;
+  padding: 18px 30px;
   background-color: #F7DAE7;
   border: none;
   border-radius: 8px;
@@ -42,7 +41,7 @@ button {
   width: auto;
   max-width: fit-content;
   margin: 0 auto;
-  top: -140px;                /* moved closer to compliment bubble */
+  top: **-250px**; /* ← this is the key change */
 }
 
 button:hover {
