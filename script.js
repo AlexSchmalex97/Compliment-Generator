@@ -12,6 +12,7 @@ function showCompliment(e) {
     "You're like, REALLY pretty",
     "You're a queen!👑",
     "You have the best smile!",
+    "You know that moment in the movies where theres a glow, everything's slow motion, and theres a chorus singing in the background? yea, well, i think thats what I just experienced when i saw you.",
     "My type on paper!",
     "You are a 10/10!",
     "You have the best style!",
