@@ -37,12 +37,12 @@ button {
   cursor: url('https://cdn.custom-cursor.com/db/2893/32/pink-star-cursor.png'), auto;
   box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
   transition: background-color 0.3s ease;
-  position: relative; /* added */
+  position: relative; /* already exists */
   overflow: hidden;
   width: auto;
   max-width: fit-content;
-  margin: 0 auto; /* adjusted */
-  top: -40px; /* moves button upward */
+  margin: 0 auto; /* top and bottom margin = 0 */
+  top: -80px; /* 👈 moves button way closer to the bubble */
 }
 
 button:hover {
