@@ -28,6 +28,7 @@ h1 {
 }
 
 button {
+  display: inline-block;
   font-size: 1.1rem;
   padding: 18px 30px;
   background-color: #F7DAE7;
@@ -41,7 +42,7 @@ button {
   width: auto;
   max-width: fit-content;
   margin: 0 auto;
-  top: **-250px**; /* ← this is the key change */
+  top: -250px; /* 👈 THIS IS KEY */
 }
 
 button:hover {
