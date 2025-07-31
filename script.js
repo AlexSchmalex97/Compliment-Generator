@@ -16,7 +16,7 @@ function showCompliment(e) {
     "You're a queen!👑",
     "You're 100% cooler than the water from Avatar's Northern Water Tribe.",
     "You're my lobster 🦞",
-    "Could you <italic>be</italic> any more amazing?",
+    "Could you <em>be</em> any more amazing?",
     "You’re worthy — Mjolnir would 100% choose you.",
     "You shine brighter than Edward in the sunlight.",
     "You have the best smile!",
@@ -45,7 +45,7 @@ function showCompliment(e) {
 
   const randomIndex = Math.floor(Math.random() * compliments.length);
   const randomCompliment = compliments[randomIndex];
-  document.getElementById("message").textContent = randomCompliment;
+  document.getElementById("message").innerHTML = randomCompliment;
 
   // Sparkle effect (inside the function!)
   for (let i = 0; i < 10; i++) {
