@@ -16,7 +16,7 @@ function showCompliment(e) {
     "You're a queen!👑",
     "You're 100% cooler than the water from Avatar's Northern Water Tribe.",
     "You're my lobster 🦞",
-    "Could you <italic>be</italic> any more amazing?",
+    "Could you <i>be</i> any more amazing?",
     "You’re worthy — Mjolnir would 100% choose you.",
     "You shine brighter than Edward in the sunlight.",
     "You have the best smile!",
