@@ -10,6 +10,7 @@ function showCompliment(e) {
     "STU 👏🏼 NNING!!!!!",
     "Baby you light up my world like nobody else",
     "You're like, REALLY pretty",
+    "You'd 100% be the diamond of the season",
     "You could lead your own show — cue the theme song and glittery graphics.",
     "You're giving peak 2000s intro montage energy — and I’m obsessed.",
     "You're a queen!👑",
