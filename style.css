@@ -45,13 +45,12 @@ button {
   cursor: url('https://cdn.custom-cursor.com/db/2893/32/pink-star-cursor.png'), auto;
   box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
   transition: background-color 0.3s ease, transform 0.2s ease;
-  position: relative;
-  overflow: hidden;
   width: auto;
   max-width: fit-content;
-  margin: 0 auto;
-  top: -250px; /* 👈 THIS IS KEY */
+  margin: 20px auto 0 auto; /* Adds spacing below the compliment */
+  position: relative;
 }
+
 
 button:hover {
   background-color: #f4a6c2;
