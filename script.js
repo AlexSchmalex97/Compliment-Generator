@@ -9,6 +9,7 @@ function showCompliment(e) {
     "You deserve all the things on your vision board",
     "You're literally just amazing. I have no words",
     "STU 👏🏼 NNING!!!!!",
+    "You are my favourite person.",
     "Baby you light up my world like nobody else",
     "I bet your Eras Tour outfit was dazzling!",
     "You should have been Justin Bieber's 'One Less Lonely Girl', and you know it.",
