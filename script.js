@@ -19,6 +19,7 @@ function showCompliment(e) {
     "I honestly think you could have fixed Ben Solo. No, that's not my delusion talking.",
     "You're so beautiful, Pete Davidson has you on his waitlist.",
     "A walking green flag",
+    "You are sunshine on a cloudy day",
     "You shine with the light from the sun, or whatever Paolo said to Lizzy",
     "You are what Lizzie McGuire was singing about when she said 'this is what dreams are made of' btw.",
     "I'd still love you if you were a worm.",
