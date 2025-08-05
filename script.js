@@ -5,6 +5,7 @@ function showCompliment(e) {
     "Even your book boyfriend is out of your league 😮‍💨😍",
     "Is it even legal to look that good?",
     "Your vibe? IMMACULATE!",
+    "You are the reason someone smiles.",
     "You deserve all the things on your vision board",
     "You're literally just amazing. I have no words",
     "STU 👏🏼 NNING!!!!!",
