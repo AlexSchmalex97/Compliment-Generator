@@ -19,6 +19,7 @@ function showCompliment(e) {
     "You've got this.",
     "You have the best energy!",
     "You're GOLDEN!",
+    "You look like you'd have two extremely attractive brothers wrapped around your finger in an early 2000's CW tv show.",
     "You're my little soda pop",
     "I feel like you're not hyped enough. Like, you deserve a whole parade. An international holiday. Why are there no statues of you?!? Who do I need to sue?",
     "Whatever you're procrastinating, go do it. You're gonna kill it ✨",
