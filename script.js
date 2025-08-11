@@ -1,25 +1,25 @@
 function showCompliment(e) {
   const compliments = [
     "You're doing amazing, sweetie!",
-    "As a wise man named Joey once said, 'how you doin'?",
+    "As a wise man named Joey once said, 'how you doin'?'",
     "You could've won the Saja Boys over easily",
     "Can you just bottle up some of that perfection? You'd make BANK!",
     "It's the way the whole world stopped when you got here. Like, forget all the other people asking for compliments, look at YOU!",
     "You are sunshine in human form!",
-    "Your energy could power the Millennium Falcon on a Kessel Run.”,
+    "Your energy could power the Millennium Falcon on a Kessel Run.",
     "Even your book boyfriend is out of your league 😮‍💨😍",
     "Is it even legal to look that good?",
     "What's cookin, good lookin?",
-    "If life were an anime, you’d have the best opening theme.”,
+    "If life were an anime, you'd have the best opening theme.",
     "Your vibe? IMMACULATE!",
     "You give off the best vibes!",
-    "Your kindness hits harder than an Avada Kedavra — but, you know, in a good way.”,
-    "You’re the One Ring — precious and completely unforgettable.”,
+    "Your kindness hits harder than an Avada Kedavra — but, you know, in a good way.",
+    "You're the One Ring — precious and completely unforgettable.",
     "Your heart is bigger than Appa's flying bison saddle.",
     "You're golden",
     "I was enchanted to meet you",
     "You're a solid 1000/10. No doubt",
-    "You could have sealed the honmoon based on just vibes",
+    "You could have sealed the honeymoon based on just vibes",
     "You are the reason someone smiles.",
     "There is someone out there who is smiling at the thought of you. And someone is with them saying 'who got you smiling like that?!'.",
     "Remember when you used to pray for what you've got right now? Look at you go!",
@@ -34,15 +34,15 @@ function showCompliment(e) {
     "There's someone out there who's wishing to be more like you. Yea, you're just <i>that</i> awesome.",
     "How can I get more of you? Who do I need to call? I just can't get enough of ya",
     "Preeeeeetty sure that One Direction wrote 'Gotta Be You' about, well, You.",
-    "You’re as dependable as Samwise with second breakfast.”,
+    "You're as dependable as Samwise with second breakfast.",
     "You <i>do</i> know that it's common decency to leave some awesomeness for the rest of us, right? You're making the rest of us look bad!!!",
     "I don't know if anyone's told you lately, but you're pretty freaking awesome.",
     "You deserve all the things on your vision board",
     "You know that thing you really wanna do but are too scared to do? You can do it. I mean, how hard can it be? Boys do it.",
-    "Lord Farquad would have picked you over Fiona",
+    "Lord Farquaad would have picked you over Fiona",
     "You're literally just amazing. I have no words",
     "You make the whole place ✨shimmer✨",
-    "You’re the chaotic-good energy keeping the party alive.”,
+    "You're the chaotic-good energy keeping the party alive.",
     "Someone has your name and theirs surrounded by a heart in their journal, somewhere.",
     "STU 👏🏼 NNING!!!!!",
     "You are my favourite person.",
@@ -53,7 +53,7 @@ function showCompliment(e) {
     "You should have been Justin Bieber's 'One Less Lonely Girl', and you know it.",
     "Has anyone told you how gorgeous you are? Well, you're really freaking gorgeous.",
     "Taylor Swift wrote 'Gorgeous' about you. Just thought you should know.",
-    "You are SO pretty. Like, photo of you in a soldiers chest pocket when he goes to war, aged husband has a photo of you in his wallet, photo in a locket sort of beautiful.",
+    "You are SO pretty. Like, photo of you in a soldier's chest pocket when he goes to war, aged husband has a photo of you in his wallet, photo in a locket sort of beautiful.",
     "Not sure if I wanna marry you or be you, but until I figure it out, what's your makeup routine?",
     "Literally any of the guys in your favourite 2012 sci-fi would have been lucky to have you.",
     "Did you know that the most gorgeous person is actually reading from a compliment generator right now? Wait, that's you!!!",
@@ -70,12 +70,12 @@ function showCompliment(e) {
     "I think Benson Boone wrote 'Beautiful Things' about you.",
     "I love you more than the world loves Nicolandria",
     "I put you on my Christmas list this year, I hope that's okay",
-    "I love you more than a millenial loves side parts",
+    "I love you more than a millennial loves side parts",
     "Your tumblr era went crazy, I just know it.",
     "You're like, REALLY pretty",
     "You'd 100% be the diamond of the season",
     "You could lead your own show — cue the theme song and glittery graphics.",
-    "You're giving peak 2000s intro montage energy — and I’m obsessed.",
+    "You're giving peak 2000s intro montage energy — and I'm obsessed.",
     "You're a queen!👑",
     "You're more comforting than Joey's favorite sandwich.",
     "You're more precious than the One Ring (and a lot less cursed).",
@@ -83,11 +83,11 @@ function showCompliment(e) {
     "You're 100% cooler than the water from Avatar's Northern Water Tribe.",
     "You're my lobster 🦞",
     "Could you <i>be</i> any more amazing?",
-    "You’re worthy — Mjolnir would 100% choose you.",
+    "You're worthy — Mjolnir would 100% choose you.",
     "You shine brighter than Edward in the sunlight.",
     "OMG DID YOU HEAR!? THERE'S A REALLY HOT PERSON READING THIS- oh, wait, it's YOU!!!",
     "You have the best smile!",
-    "You know that moment in the movies where theres a glow, everything's slow motion, and theres a chorus singing in the background? yea, well, i think thats what I just experienced when i saw you.",
+    "You know that moment in the movies where there's a glow, everything's slow motion, and there's a chorus singing in the background? yea, well, I think that's what I just experienced when I saw you.",
     "My type on paper!",
     "Even the Epcot Ball calls <strong><i>YOU</i></strong> the <i>'prettiest girl in school'</i>",
     "You're my personal brand of heroin 😅",
@@ -97,14 +97,14 @@ function showCompliment(e) {
     "You bring balance to the Force — and my day.",
     "You're the Obi-Wan to my Anakin — except, you know, healthy.",
     "You're more iconic than the 'No Control' dance.",
-    "I’d walk to Mordor and back just to see your smile.",
+    "I'd walk to Mordor and back just to see your smile.",
     "One Direction would definitely have brought you backstage!",
     "You give off main character energy in a slow-burn romantasy.",
     "You are a literal angel!",
-    "You’re so Suite, you’d fit right in at the Tipton.",
+    "You're so Suite, you'd fit right in at the Tipton.",
     "You are loved!",
     "You keep me on my toes like a psychological thriller — but way more comforting.",
-    "You’ve got the bravery of a Gryffindor and the heart of a Hufflepuff.",
+    "You've got the bravery of a Gryffindor and the heart of a Hufflepuff.",
     "You are amazing!",
     "You're a five-star read.",
     "Yo, I think Harry Styles wrote a song about you! It's called Golden!"
@@ -114,15 +114,12 @@ function showCompliment(e) {
   const randomCompliment = compliments[randomIndex];
   document.getElementById("message").innerHTML = randomCompliment;
 
-  // Sparkle effect (inside the function!)
+  // Sparkle effect
   for (let i = 0; i < 10; i++) {
     const sparkle = document.createElement("div");
     sparkle.className = "sparkle";
-
-    // Use backticks for template literals, not single quotes
     sparkle.style.left = `${e.clientX - e.target.offsetLeft + Math.random() * 50 - 25}px`;
     sparkle.style.top = `${e.clientY - e.target.offsetTop}px`;
-
     e.target.appendChild(sparkle);
     setTimeout(() => sparkle.remove(), 600);
   }
