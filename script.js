@@ -12,6 +12,8 @@ function showCompliment(e) {
     "What's cookin, good lookin?",
     "Your vibe? IMMACULATE!",
     "You give off the best vibes!",
+    "You’re the One Ring — precious and completely unforgettable.”,
+    "Your heart is bigger than Appa's flying bison saddle.",
     "You're golden",
     "I was enchanted to meet you",
     "You're a solid 1000/10. No doubt",
