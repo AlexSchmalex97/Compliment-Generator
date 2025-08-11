@@ -1,5 +1,8 @@
-// Attach click handler to button
-document.getElementById("complimentBtn").addEventListener("click", showCompliment);
+// Attach click handler after page loads
+document.addEventListener("DOMContentLoaded", function () {
+  const btn = document.getElementById("complimentBtn");
+  btn.addEventListener("click", showCompliment);
+});
 
 function showCompliment(e) {
   if (!e) e = window.event; // Safari fallback
@@ -119,7 +122,7 @@ function showCompliment(e) {
   const randomCompliment = compliments[randomIndex];
   document.getElementById("message").innerHTML = randomCompliment;
 
-  // Sparkle effect (skip if no event target)
+  // Sparkle effect (only if event target exists)
   if (!e || !e.target) return;
   for (let i = 0; i < 10; i++) {
     const sparkle = document.createElement("div");
