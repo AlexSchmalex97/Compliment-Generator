@@ -6,6 +6,7 @@ function showCompliment(e) {
     "Can you just bottle up some of that perfection? You'd make BANK!",
     "It's the way the whole world stopped when you got here. Like, forget all the other people asking for compliments, look at YOU!",
     "You are sunshine in human form!",
+    "Your energy could power the Millennium Falcon on a Kessel Run.”,
     "Even your book boyfriend is out of your league 😮‍💨😍",
     "Is it even legal to look that good?",
     "What's cookin, good lookin?",
