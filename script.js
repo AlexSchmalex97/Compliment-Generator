@@ -1,4 +1,9 @@
+// Attach click handler to button
+document.getElementById("complimentBtn").addEventListener("click", showCompliment);
+
 function showCompliment(e) {
+  if (!e) e = window.event; // Safari fallback
+
   const compliments = [
     "You're doing amazing, sweetie!",
     "As a wise man named Joey once said, 'how you doin'?'",
@@ -114,8 +119,8 @@ function showCompliment(e) {
   const randomCompliment = compliments[randomIndex];
   document.getElementById("message").innerHTML = randomCompliment;
 
-  // Sparkle effect only if event exists
-  if (!e) return;
+  // Sparkle effect (skip if no event target)
+  if (!e || !e.target) return;
   for (let i = 0; i < 10; i++) {
     const sparkle = document.createElement("div");
     sparkle.className = "sparkle";
