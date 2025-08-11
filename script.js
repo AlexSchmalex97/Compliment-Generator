@@ -114,7 +114,8 @@ function showCompliment(e) {
   const randomCompliment = compliments[randomIndex];
   document.getElementById("message").innerHTML = randomCompliment;
 
-  // Sparkle effect
+  // Sparkle effect only if event exists
+  if (!e) return;
   for (let i = 0; i < 10; i++) {
     const sparkle = document.createElement("div");
     sparkle.className = "sparkle";
