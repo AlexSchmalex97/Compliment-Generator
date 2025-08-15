@@ -41,6 +41,7 @@
         "You're so smart",
         "You'd have Gwi-Ma wrapped around your little finger", 
         "You're so kind",
+        "Can you spare some awesomeness for the rest of us, please?",
         "You're my favourite colour",
         "Joey would definitely share his food with you",
         "You've got the kind of smile people would kill for",
