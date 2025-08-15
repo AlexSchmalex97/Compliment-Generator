@@ -39,6 +39,7 @@
         "Thats 100% your look, Connie Baby",
         "You're so pretty",
         "You're so smart",
+        "You'd have Gwi-Ma wrapped around your little finger", 
         "You're so kind",
         "You're my favourite colour",
         "Joey would definitely share his food with you",
