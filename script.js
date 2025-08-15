@@ -40,6 +40,7 @@
         "You're so pretty",
         "You're so smart",
         "You're so kind",
+        "You're my favourite colour",
         "Joey would definitely share his food with you",
         "You've got the kind of smile people would kill for",
         "You've got a beauty that men go to war for",
