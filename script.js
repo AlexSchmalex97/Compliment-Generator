@@ -38,6 +38,8 @@
         "You are sunshine in human form!",
         "Thats 100% your look, Connie Baby",
         "You're so pretty",
+        "You are sunshine",
+        "You dont know your beautiful, or whatever it is those attractive boys sang back in 2010",
         "You're so smart",
         "You'd have Gwi-Ma wrapped around your little finger", 
         "You're so kind",
