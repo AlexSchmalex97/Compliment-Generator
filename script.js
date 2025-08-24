@@ -38,7 +38,8 @@
         "You are sunshine in human form!",
         "Thats 100% your look, Connie Baby",
         "You're so pretty",
-        "You're radiant"
+        "You're radiant",
+        "Joey would 100% share his food with you",
         "4+4? ATE! You did that",
         "You shine with the light of the sun, or whatever it is Paolo Valisari said in the Lizzie McGuire movie",
         "You are sunshine",
