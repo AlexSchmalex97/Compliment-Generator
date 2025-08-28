@@ -44,6 +44,7 @@
         "4+4? ATE! You did that",
         "You shine with the light of the sun, or whatever it is Paolo Valisari said in the Lizzie McGuire movie",
         "You are sunshine",
+        "I love everything that's wrong with you",
         "You're my soda pop",
         "You would 100% be the perfect Sally at a Role Model show",
         "Oh, sorry, I've already had a snack today",
