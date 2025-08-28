@@ -51,6 +51,7 @@
         "You dont know your beautiful, or whatever it is those attractive boys sang back in 2010",
         "You're so smart",
         "You are my favourite person",
+        "I love everything that is right with you",
         "Leave some awesomeness for the rest of us, please!",
         "You'd have Gwi-Ma wrapped around your little finger", 
         "You're so kind",
