@@ -37,6 +37,7 @@
         "It's the way the whole world stopped when you got here. Like, forget all the other people asking for compliments, look at YOU!",
         "You are sunshine in human form!",
         "Thats 100% your look, Connie Baby",
+        "How you doin?",
         "You're so pretty",
         "You're smile lights up the whole room!!!",
         "You're a 10/10",
