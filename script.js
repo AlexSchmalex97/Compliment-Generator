@@ -159,6 +159,7 @@
         "One Direction would definitely have brought you backstage!",
         "You give off main character energy in a slow-burn romantasy.",
         "You are a literal angel!",
+        "You're a star!",
         "You're so Suite, you'd fit right in at the Tipton.",
         "You are loved!",
         "You keep me on my toes like a psychological thriller — but way more comforting.",
