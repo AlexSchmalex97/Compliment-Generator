@@ -39,6 +39,7 @@
         "Thats 100% your look, Connie Baby",
         "How you doin?",
         "You're so pretty",
+        "You're a human exclamation point",
         "You're smile lights up the whole room!!!",
         "You're a 10/10",
         "You are <i>opalite</i>",
