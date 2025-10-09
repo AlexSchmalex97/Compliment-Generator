@@ -41,6 +41,7 @@
         "You're so pretty",
         "You're smile lights up the whole room!!!",
         "You're a 10/10",
+        "You are <i>opalite</i>",
         "You're radiant",
         "Joey would 100% share his food with you",
         "4+4? ATE! You did that",
