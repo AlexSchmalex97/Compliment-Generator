@@ -81,6 +81,7 @@
         "You're a solid 1000/10. No doubt",
         "You could have sealed the honeymoon based on just vibes",
         "You are the reason someone smiles.",
+        "You're as bright as an opalite sky",
         "There is someone out there who is smiling at the thought of you. And someone is with them saying 'who got you smiling like that?!'.",
         "Remember when you used to pray for what you've got right now? Look at you go!",
         "You've got this.",
