@@ -73,6 +73,7 @@
         "If life were an anime, you'd have the best opening theme.",
         "Your vibe? IMMACULATE!",
         "You give off the best vibes!",
+        "You're the diamond of the season",
         "Your kindness hits harder than an Avada Kedavra — but, you know, in a good way.",
         "You're the One Ring — precious and completely unforgettable.",
         "Your heart is bigger than Appa's flying bison saddle.",
