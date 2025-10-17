@@ -38,6 +38,7 @@
         "You are sunshine in human form!",
         "Thats 100% your look, Connie Baby",
         "How you doin?",
+        "Look at you, lookin' all pretty",
         "You're so pretty",
         "You're a human exclamation point",
         "You're smile lights up the whole room!!!",
