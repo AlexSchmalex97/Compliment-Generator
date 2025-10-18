@@ -45,6 +45,7 @@
         "You're a 10/10",
         "You are <i>opalite</i>",
         "You're radiant",
+        "How you doin?",
         "Joey would 100% share his food with you",
         "4+4? ATE! You did that",
         "You shine with the light of the sun, or whatever it is Paolo Valisari said in the Lizzie McGuire movie",
