@@ -47,6 +47,7 @@
         "You're radiant",
         "How you doin?",
         "Joey would 100% share his food with you",
+        "Have I ever told you about the time I went backpacking through central Europe?",
         "4+4? ATE! You did that",
         "You shine with the light of the sun, or whatever it is Paolo Valisari said in the Lizzie McGuire movie",
         "You are sunshine",
