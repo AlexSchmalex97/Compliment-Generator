@@ -65,6 +65,8 @@
         "You're my little soda pop",
         "You are worthy of all that you hope for",
         "Can you spare some awesomeness for the rest of us, please?",
+        "You're amazing",
+        "You shine with the light of the sun",
         "You're my favourite colour",
         "Joey would definitely share his food with you",
         "You've got the kind of smile people would kill for",
