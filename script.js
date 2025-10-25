@@ -36,6 +36,7 @@
         "Can you just bottle up some of that perfection? You'd make BANK!",
         "It's the way the whole world stopped when you got here. Like, forget all the other people asking for compliments, look at YOU!",
         "You are sunshine in human form!",
+        "Litterally stunning",
         "Thats 100% your look, Connie Baby",
         "How you doin?",
         "Look at you, lookin' all pretty!",
