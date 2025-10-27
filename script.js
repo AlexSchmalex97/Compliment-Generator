@@ -70,6 +70,8 @@
         "You shine with the light of the sun",
         "I burn for you",
         "You're my favourite colour",
+        "You look like you say please and thank you",
+        "You look like you respect your elders",
         "Joey would definitely share his food with you",
         "You've got the kind of smile people would kill for",
         "You've got a beauty that men go to war for",
