@@ -46,6 +46,7 @@
         "You're smile lights up the whole room!!!",
         "You're a 10/10",
         "You are <i>opalite</i>",
+        "You look like you protect the family",
         "You're radiant",
         "How you doin?",
         "Joey would 100% share his food with you",
