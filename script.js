@@ -54,6 +54,7 @@
         "4+4? ATE! You did that",
         "You shine with the light of the sun, or whatever it is Paolo Valisari said in the Lizzie McGuire movie",
         "You are sunshine",
+        "Taylor Swift has yet to invent a phrase that accurately describes how stunning you are",
         "I love everything that's wrong with you",
         "You're my soda pop",
         "You would 100% be the perfect Sally at a Role Model show",
