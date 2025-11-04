@@ -74,6 +74,7 @@
         "You shine with the light of the sun",
         "I burn for you",
         "You're my favourite colour",
+        "Have you SEEN yourself? Goals.",
         "You look like you say please and thank you",
         "You look like you respect your elders",
         "Joey would definitely share his food with you",
