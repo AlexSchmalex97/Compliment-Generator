@@ -86,6 +86,7 @@
         "What's cookin, good lookin?",
         "If life were an anime, you'd have the best opening theme.",
         "Your vibe? IMMACULATE!",
+        "You're doing a great job",
         "You give off the best vibes!",
         "You're glowing!!!"
         "You're the diamond of the season",
