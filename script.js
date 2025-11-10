@@ -38,6 +38,7 @@
         "You are sunshine in human form!",
         "Litterally stunning",
         "Thats 100% your look, Connie Baby",
+        "You've got this!!!",
         "How you doin?",
         "Look at you, lookin' all pretty!",
         "You're so pretty",
