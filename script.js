@@ -84,6 +84,7 @@
         "You look like you respect your elders",
         "Joey would definitely share his food with you",
         "You've got the kind of smile people would kill for",
+        "You've got this!",
         "You've got a beauty that men go to war for",
         "Your energy could power the Millennium Falcon on a Kessel Run.",
         "Even your book boyfriend is out of your league 😮‍💨😍",
