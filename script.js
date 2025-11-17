@@ -57,6 +57,7 @@
         "4+4? ATE! You did that",
         "You shine with the light of the sun, or whatever it is Paolo Valisari said in the Lizzie McGuire movie",
         "You are sunshine",
+        "You are worthy of all that you hope for",
         "Taylor Swift has yet to invent a phrase that accurately describes how stunning you are",
         "I love everything that's wrong with you",
         "You're my soda pop",
