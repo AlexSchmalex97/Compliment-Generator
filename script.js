@@ -32,6 +32,7 @@
         "You're doing amazing, sweetie!",
         "I <i>burn</i> for you- or whatever Simon Basset said",
         "As a wise man named Joey once said, 'how you doin'?'",
+        "I like you",
         "You could've won the Saja Boys over easily",
         "Can you just bottle up some of that perfection? You'd make BANK!",
         "It's the way the whole world stopped when you got here. Like, forget all the other people asking for compliments, look at YOU!",
