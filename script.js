@@ -84,6 +84,8 @@
         "You look like you say please and thank you",
         "That thing you're stressing about? You're gonna crush it",
         "You look like you respect your elders",
+        "You are loved",
+        "You are worthy",
         "Joey would definitely share his food with you",
         "You've got the kind of smile people would kill for",
         "You've got this!",
