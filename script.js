@@ -44,6 +44,7 @@
         "Look at you, lookin' all pretty!",
         "You're so pretty",
         "You look really pretty today",
+        "SOS! I think I just saw an angel!!!",
         "You look like the main character in a 2012 One Direction Wattpad fanfic",
         "You're a human exclamation point",
         "You're smile lights up the whole room!!!",
