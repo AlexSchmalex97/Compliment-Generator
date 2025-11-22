@@ -116,6 +116,7 @@
         "Remember when you used to pray for what you've got right now? Look at you go!",
         "You've got this.",
         "You've got that james dean daydream look in your eye",
+        "You're the closest I've seen to perfection",
         "You have the best energy!",
         "You're GOLDEN!",
         "You look like you'd have two extremely attractive brothers wrapped around your finger in an early 2000's CW tv show.",
