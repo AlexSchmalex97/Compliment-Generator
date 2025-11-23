@@ -137,6 +137,7 @@
         "You're the chaotic-good energy keeping the party alive.",
         "Someone has your name and theirs surrounded by a heart in their journal, somewhere.",
         "STU 👏🏼 NNING!!!!!",
+        "You're stunning!!!!!!!",
         "You are my favourite person.",
         "I feel like cats love you. That's a compliment, btw",
         "Baby you light up my world like nobody else",
