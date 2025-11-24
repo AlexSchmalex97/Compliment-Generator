@@ -58,6 +58,7 @@
         "Joey would 100% share his food with you",
         "Have I ever told you about the time I went backpacking through central Europe?",
         "4+4? ATE! You did that",
+        "I think you're my newest five star read!",
         "You shine with the light of the sun, or whatever it is Paolo Valisari said in the Lizzie McGuire movie",
         "You are sunshine",
         "You are worthy of all that you hope for",
