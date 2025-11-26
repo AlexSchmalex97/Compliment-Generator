@@ -42,6 +42,7 @@
         "Lookin' good!",
         "You've got this!!!",
         "How you doin?",
+        "You've got this", 
         "Look at you, lookin' all pretty!",
         "You're so pretty",
         "You look really pretty today",
