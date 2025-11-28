@@ -118,6 +118,7 @@
         "There is someone out there who is smiling at the thought of you. And someone is with them saying 'who got you smiling like that?!'.",
         "Remember when you used to pray for what you've got right now? Look at you go!",
         "You've got this.",
+        "You are everything goals",
         "You've got that james dean daydream look in your eye",
         "You're the closest I've seen to perfection",
         "You have the best energy!",
