@@ -85,6 +85,7 @@
         "You're amazing",
         "You shine with the light of the sun",
         "I burn for you",
+        "With you here, now the sky is opalite",
         "You're my favourite colour",
         "Have you SEEN yourself? Goals.",
         "You look like you say please and thank you",
