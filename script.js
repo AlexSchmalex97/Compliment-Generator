@@ -56,6 +56,7 @@
         "You're radiant",
         "How you doin?",
         "You've got this!!!",
+        "You're a star!!!",
         "You did a great job today!",
         "Joey would 100% share his food with you",
         "Have I ever told you about the time I went backpacking through central Europe?",
