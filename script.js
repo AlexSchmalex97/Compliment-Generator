@@ -109,6 +109,7 @@
         "You're doing a great job",
         "You give off the best vibes!",
         "You're glowing!!!"
+        "You're so cute",
         "You're the diamond of the season",
         "Your kindness hits harder than an Avada Kedavra — but, you know, in a good way.",
         "You're the One Ring — precious and completely unforgettable.",
