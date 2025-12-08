@@ -111,6 +111,7 @@
         "You're glowing!!!"
         "You're so cute",
         "You're the diamond of the season",
+        "Your hair is winter fire, January embers. My heart burns there, too.
         "Your kindness hits harder than an Avada Kedavra — but, you know, in a good way.",
         "You're the One Ring — precious and completely unforgettable.",
         "Your heart is bigger than Appa's flying bison saddle.",
